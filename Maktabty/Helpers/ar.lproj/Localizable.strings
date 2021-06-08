@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Maktabty
+
+  Created by Macbook on 03/06/2021.
+  
+*/
+
+"All fields are required!" = "ادخل جميع المدخلات";
+"Next" = "التالي";
+"get Started" = "البدء";
+"Amazing Books" = "كتب مذهلة";
+"Amazing Novels" = "روايات مذهلة";
+"get amazing books from all the wold." = "احصل على كتب رائعة من جميع أنحاء العالم";
+"get amazing novels  for more than 10,000 auther." = "احصل على روايات مذهلة لأكثر من 10000 كاتب";
+"Instant World-Wide Delivery" = "التسليم الفوري إلى جميع أنحاء العالم";
+"Your orders will be delivered instantly irrespective of your location around the world." = "سيتم تسليم طلباتك على الفور بغض النظر عن موقعك حول العالم";
+"books" = "كتب";
+"novels" = "روايات";
+"other items" = "عناصر أخرى";
