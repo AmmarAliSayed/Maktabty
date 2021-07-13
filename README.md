@@ -1,13 +1,11 @@
 # MaktabtyApp
-this is an ios App named "News" to show the latest news in Egypt.
-* [Youtube Link](https://www.youtube.com/watch?v=bOZChyHu-4s)
+this is an e-commerce App named "Moshtrayat" using firebase-firestore.
+this is an e-commerce Library App named "maktabty" using firebase-firestore and it's an app for a library that needs to sell its products(books, novels, and other items ) in the internet market.
+* [Youtube Link](https://www.youtube.com/watch?v=ZHpe3YMsCdw)
 ## TODO :
-- [X] show all news on the home screen by using Alamofire.
-- [X] the user can save news in bookmarks by using core data.
-- [X] Handling Offline Mode Using Reachability.
+- [X] the Admin the only one who can add products.
+- [X] the logged-in user only he can buy the product.
 ## Technologies
-* Alamofire pod
-* MVVM
-* unit testing
-* core data
-* Rechability
+* firebase-firestore
+* firebase auth
+
